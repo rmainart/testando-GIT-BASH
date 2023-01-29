@@ -10,7 +10,7 @@ let pessoal = {
     nome: 'Rafael',
     idade: 25,
     estaAprovado: true,
-    sobrenome: 'de Souza',
+    sobrenome: 'de Souza da Silva',
 };
 
 console.log(pessoal);
